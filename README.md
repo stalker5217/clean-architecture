@@ -1,3 +1,3 @@
-# Clean Code
+# Clean Architecture
 
-> Robert C. Martin, Clean Code, 박재호·이해영, 인사이트
+> Robert C. Martin, Clean Architecture, 송준이, 인사이트
