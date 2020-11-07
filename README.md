@@ -1,6 +1,5 @@
 # Clean Architecture
 
-<<<<<<< HEAD
 설계 원칙
 - [SRP: 단일 책임 원칙](/design_pattern/)
 
